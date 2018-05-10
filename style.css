@@ -1547,7 +1547,7 @@ object {
 	font-weight: bold;
 	text-transform: uppercase;
 }
-/*this is a comment here, again again*/ 
+/*this is a comment here, again again */ 
 
 .title-header p{
 	color: #fff;
@@ -1555,3 +1555,5 @@ object {
 	max-width: 450px;
 	margin: 0 auto;
 }
+
+/*this is a comment here, again again */ 
