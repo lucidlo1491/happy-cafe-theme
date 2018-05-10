@@ -1542,11 +1542,12 @@ object {
 }
 
 .title-header h1{
-	color: #fff;
+	color: #eee;
 	font-size: 36px;
 	font-weight: bold;
 	text-transform: uppercase;
 }
+/*this is a comment here*/ 
 
 .title-header p{
 	color: #fff;
